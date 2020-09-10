@@ -6,3 +6,7 @@ The included Java projects and/or installation files are here:
 * Catalog - Spring Boot project
 * Inventory - Quarkus project
 * Monolith - JBoss EAP project
+
+Credits
+
+Thsi project is based on https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2m1-labs
