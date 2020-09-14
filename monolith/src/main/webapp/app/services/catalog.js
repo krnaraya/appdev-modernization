@@ -15,6 +15,8 @@ angular.module("app")
 		}
 	}
 
+    baseUrl='http://catalog-springboot-runtimes-demo.apps.cluster-mel-c023.mel-c023.sandbox900.opentlc.com/services/products';
+
 	factory.getProducts = function() {
 		var deferred = $q.defer();
         if (products) {
